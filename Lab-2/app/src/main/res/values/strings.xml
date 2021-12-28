@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">laba</string>
+    <string name="dishes">Dish</string>
+    <string name="moneta">Moneta</string>
+    <string name="japonica">Japonica</string>
+    <string name="riedel">Riedel</string>
+
+    <string name="error_message">Please complete all data</string>
+
+    <string-array name="dishes">
+        <item> </item>
+        <item>ceramic tableware</item>
+        <item>glass and crystal dishes</item>
+        <item>cast iron cookware</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
